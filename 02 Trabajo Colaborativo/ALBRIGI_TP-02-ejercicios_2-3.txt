@@ -1,0 +1,9 @@
+LINKS a los repositorios de las ejercitaciones:
+
+TRABAJO PRÁCTICO N°2
+
+EJERCICIO 2:
+https://github.com/marianelaalbrigi/tp2_exercise02
+
+EJERCICIO 3:
+https://github.com/marianelaalbrigi/conflict-exercise
