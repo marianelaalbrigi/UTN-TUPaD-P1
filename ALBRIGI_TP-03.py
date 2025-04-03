@@ -19,7 +19,7 @@ os.system('cls')
 print("EJERCICIO 02")
 # Escribir un programa que solicite su nota al usuario. Si la nota es mayor o igual a 6, deberá
 # mostrar por pantalla un mensaje que diga “Aprobado”; en caso contrario deberá mostrar el
-# mensaje “Desaprobado”.
+# mensaje “Desaprobado".
 
 mark_input = float(input("Ingrese su nota: "))
 if mark_input >= 6 and mark_input <= 10:
