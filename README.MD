@@ -1,17 +1,19 @@
-# 💻 Programación 1  
+# 💻 Programación 1
+
 **Tecnicatura Universitaria en Programación**  
-📍 *Universidad Tecnológica Nacional*  
+📍 _Universidad Tecnológica Nacional_
 
-## ✨ Estudiante  
+## ✨ Estudiante
+
 - **Nombre:** Albrigi, Marianela Soledad
-- **Comisión:** M2025-6  
+- **Comisión:** M2025-6
 
-## 📂 Descripción del Repositorio  
-Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
+## 📂 Descripción del Repositorio
 
-📌 **Estructura del repositorio:**  
-- Cada trabajo está organizado en carpetas individuales.  
-- Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
-- Se busca mantener un código limpio, ordenado y bien documentado.  
+Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.
 
+📌 **Estructura del repositorio:**
 
+- Cada trabajo está organizado en carpetas individuales.
+- Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.
+- Se busca mantener un código limpio, ordenado y bien documentado.
